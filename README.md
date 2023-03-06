@@ -31,5 +31,8 @@ Dentro do repositório DataChallenge irá conter um arquivo 'AnaliseExploratoria
 dentro de um ambiente de notebooks como: Google Colab, Jupyter Notebook entre outras.
 
 
+## Link
+
+Vídeo explicativo: https://www.loom.com/share/fee64f0305054eda9d8923c584875acc
 
 >  This is a challenge by [Coodesh](https://coodesh.com/)
